@@ -1,0 +1,4 @@
+Hello world
+Hello there
+Transformers are great for NLP tasks
+Byte Pair Encoding helps reduce vocabulary size
